@@ -1,0 +1,536 @@
+.frame-9,
+.frame-9 * {
+  box-sizing: border-box;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.frame-15 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 955px;
+  position: relative;
+}
+.section-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(207, 199, 221, 1) 0%,
+    rgba(238, 212, 202, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 1440px;
+  height: 955px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-13 {
+  width: 1131px;
+  height: 810px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+.bbe-7-c-4-cb-1-de-129327-d-7463-cc-08012-ea-7-1 {
+  opacity: 0.9;
+  width: 1131px;
+  height: 810px;
+  position: absolute;
+  right: -1131px;
+  bottom: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.frame-12 {
+  width: 1440px;
+  height: 769px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+.bbe-7-c-4-cb-1-de-129327-d-7463-cc-08012-ea-7-2 {
+  width: 1440px;
+  height: 769px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  object-fit: cover;
+}
+.container-3 {
+  padding: 98px 0px 98px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 822px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 358.5px);
+}
+.heading-1 {
+  color: #2b285d;
+  text-align: center;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 40px;
+  line-height: 104.84%;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  height: 42px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.text {
+  color: #736d7c;
+  text-align: center;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 19px;
+  line-height: 163.16%;
+  font-weight: 700;
+  position: relative;
+  width: 638px;
+  height: 121px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.nav {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 161px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.frame-10 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 101px;
+  height: 100px;
+  position: absolute;
+  right: 9px;
+  top: 20px;
+}
+.frame-1-1 {
+  flex-shrink: 0;
+  width: 101px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  translate: 0 -50%;
+  object-fit: cover;
+}
+.section-23 {
+  background: linear-gradient(
+    180deg,
+    rgba(239, 212, 202, 1) 0%,
+    rgba(205, 198, 222, 1) 100%
+  );
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1326px;
+  position: relative;
+}
+.section-2 {
+  padding: 113px 72px 113px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 674px;
+}
+.container-4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 271px;
+  position: relative;
+}
+.text2 {
+  color: #7b787c;
+  text-align: center;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 163.16%;
+  font-weight: 700;
+  position: absolute;
+  left: 271px;
+  top: 77px;
+  width: 753px;
+  height: 386px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.heading-3 {
+  color: #38325f;
+  text-align: center;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 58px;
+  line-height: 120%;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1295px;
+  height: 70px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.section-22 {
+  padding: 117px 72px 117px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container-10 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 347px;
+  position: relative;
+}
+.text3 {
+  color: #7b787c;
+  text-align: center;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 163.16%;
+  font-weight: 700;
+  position: absolute;
+  left: 253px;
+  top: 165px;
+  width: 753px;
+  height: 302px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.heading-2 {
+  color: #38325f;
+  text-align: center;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 58px;
+  line-height: 120%;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 0px;
+  top: 88px;
+  width: 1294px;
+  height: 70px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.frame-18 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1089px;
+  position: absolute;
+  left: 159px;
+  top: 260px;
+}
+.starry-sky-galaxy-transperent-background-no-bac-1-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 685px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.section-45 {
+  background: linear-gradient(
+    180deg,
+    rgba(206, 198, 221, 1) 0%,
+    rgba(239, 212, 202, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.section-4 {
+  padding: 86px 162px 86px 162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+}
+.frame-4 {
+  flex-shrink: 0;
+  width: 304px;
+  height: 302px;
+  position: relative;
+}
+._1-1 {
+  width: 304px;
+  height: 302px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.container-17 {
+  flex-shrink: 0;
+  width: 642px;
+  height: 494px;
+  position: relative;
+}
+.frame-5 {
+  width: 589px;
+  height: 374px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.text4 {
+  color: #7b787c;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 589px;
+  height: 374px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.frame-6 {
+  width: 714px;
+  height: 59px;
+  position: absolute;
+  left: 0px;
+  top: -11px;
+}
+.heading-4 {
+  color: #3e2e5c;
+  text-align: left;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 40px;
+  line-height: 120.41%;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 37px;
+  top: 0px;
+  width: 613px;
+  height: 59px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.section-5 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 776px;
+  position: relative;
+}
+.section-6 {
+  background: #eed4cb;
+  padding: 99px 72px 99px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 795px;
+  position: relative;
+}
+.container-23 {
+  flex-shrink: 0;
+  width: 1295px;
+  height: 157px;
+  position: relative;
+}
+.text5 {
+  color: #7b797d;
+  text-align: center;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 27px;
+  line-height: 157.89%;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 214px;
+  width: 1245px;
+  height: 410px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.heading-6 {
+  color: #3b2661;
+  text-align: center;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 48px;
+  line-height: 120%;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  width: 1295px;
+  height: 77px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.section-7 {
+  background: linear-gradient(
+    180deg,
+    rgba(238, 212, 203, 1) 0%,
+    rgba(203, 197, 220, 1) 100%
+  );
+  padding: 102px 72px 102px 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container-30 {
+  flex-shrink: 0;
+  width: 617px;
+  height: 477px;
+  position: relative;
+}
+.text6 {
+  color: #605f6a;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 174.07%;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 205px;
+  width: 540px;
+  height: 126px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.heading-7 {
+  color: #342c63;
+  text-align: left;
+  font-family: "ZillaSlab-SemiBoldItalic", sans-serif;
+  font-size: 40px;
+  line-height: 121.57%;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 0px;
+  top: 102px;
+  width: 422px;
+  height: 124px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.frame-16 {
+  flex-shrink: 0;
+  width: 616px;
+  height: 620px;
+  position: relative;
+}
+.sea {
+  width: 616px;
+  height: 620px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.footer {
+  background: linear-gradient(
+    180deg,
+    rgba(203, 197, 220, 1) 31.00000023841858%,
+    rgba(175, 160, 191, 1) 100%
+  );
+  padding: 40px 100px 80px 100px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 296px;
+  position: relative;
+}
+.logo-column {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 200px;
+  position: absolute;
+  left: 654.5px;
+  top: 40px;
+}
+.frame-11 {
+  flex-shrink: 0;
+  width: 131px;
+  height: 131px;
+  position: relative;
+}
+.frame-1-12 {
+  width: 131px;
+  height: 131px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.logo-text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AtkinsonHyperlegible-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: relative;
+  width: 131px;
+  height: 29px;
+}
